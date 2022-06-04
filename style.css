@@ -149,6 +149,7 @@ ul.primary_menu li ul li a {}
 
 .banner_section {
     background: url(./img/main-banner2.jpg) no-repeat top center;
+    background-attachment: fixed;
     background-size: cover;
 }
 
